@@ -21,7 +21,7 @@ namespace vetores
 
             for (int i = 0; i < idades.Length; i++)
             {
-                Console.Write("Poderia me falar seu NOME: ");
+                Console.Write("Poderia me falar seu NOME Por favor: ");
                 nomes[i] = Console.ReadLine();
            
                 Console.Write("Poderia me falar sua IDADE: ");
